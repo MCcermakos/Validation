@@ -1,2 +1,2 @@
 # Validation
-Web for validation and swiper
+Web for validation
